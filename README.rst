@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2FFEAST_PtE.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2FFEAST_PtE?ref=badge_shield)
+
 Fugitive Emissions Abatement Simulation Tool (FEAST) v3.1
 ==========================================================
 
@@ -42,3 +44,7 @@ Documentation
 -------------
 FEAST is supported with a User Guide, Doc Strings, and an Example Run Script. All three resources are included in the
 parent directory of the FEAST 3.1 repository.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2FFEAST_PtE.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdiscovery-to-impact%2FFEAST_PtE?ref=badge_large)
